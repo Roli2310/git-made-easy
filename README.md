@@ -1,9 +1,15 @@
-# This is my README file for the Git Made Easy Repo
+# My Awesome Project
 
-## This course has multiple sections
+This project is a simple project to demonstrate how a README Fil works.
 
-1. Git Basics
-2. More Advanced Topics
-3. Other Information
+## Getting starte with Git
 
-### Make a new change
+To get started clone the repo:
+
+```bash
+git clone https.sfas.com
+```
+
+## How to use this repo
+
+This is my commit for my git log example
